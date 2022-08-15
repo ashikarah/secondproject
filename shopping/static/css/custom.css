@@ -1,0 +1,91 @@
+body{
+    font-family: 'Ibarra Real Nova', serif;
+    background:#e83e8c;
+}
+.nav-item{
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.dropdown-item{
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.my_footer{
+ background-color: #000000;
+ height: 60px;
+}
+.my_footer p{
+padding-top:20px;
+font-size-14px;
+}
+/*** category.html ***/
+.my_row_class{
+ padding-top:15px;
+}
+.my_row_class .mx_auto{
+    color:black;
+    font-size:12px
+}
+.my_image{
+   height=200px ;
+   width=250px;
+}
+.my_title{
+    font-size:14px;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+}
+.my_image_padding{
+    padding:20px;
+}
+.my_bottom_margin{
+    margin_bottom:10px;
+}
+.card-body h3{
+ font-size:14px;
+ text-transform:uppercase;
+ letter-spacing:.2em;
+}
+/*** product.html ***/
+.my_prod_row_class{
+padding-top:15px;
+padding-bottom:20px;
+}
+.my_prod_row_class .mx_auto{
+color:black;
+text-decoration:none;
+font-size:12px
+}
+.my_prod_title{
+ font-size:14px;
+ text-transform:uppercase;
+ padding-top:15px;
+ padding-bottom:10px;
+}
+.my_prod_text{
+ padding-left:100px;
+ }
+.my_search_text{
+ padding-top:20px;
+}
+/*** cart ***/
+.my_custom_table{
+    min-width:400px;
+    font-size:12px;
+}
+.my_custom_thead{
+    font-weight:normal;
+    text-transform:uppercase;
+    text-spacing:.2em;
+}
+.custom_a{
+    text-decoration:none;
+}
+.custom_icon{
+    text-decoration:none;
+}
+.custom_button{
+    margin-top:5px;
+}
